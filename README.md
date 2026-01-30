@@ -35,17 +35,6 @@ Stack: React/Next.js, Node.js/NestJS, PostgreSQL + TimescaleDB.
 
 ---
 
-### InsightFlow (Projecto Pessoal)
-Plataforma SaaS de análise preditiva voltada para pequenas e médias empresas.  
-Utiliza machine learning para previsões de vendas, identificação de tendências de mercado e análise de comportamento do cliente, com foco em **simplicidade de uso para não técnicos**.
-
----
-
-### FraudDetect AI (Projecto Pessoal)
-Sistema de detecção de fraudes baseado em análise de comportamento e transações financeiras.
-
----
-
 ## 📚 Em Estudo Contínuo
 
 - Cibersegurança (Blue Team)
