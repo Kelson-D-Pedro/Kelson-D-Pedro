@@ -37,7 +37,7 @@ Sistema de detecção de eventos críticos em tempo real com fusão de sinais (a
 ---
 
 ### Born2BeRoot — Hardening de servidor Linux
-`42 Luanda · 2026`
+`42 Luanda · 2024`
 
 Administração de sistemas em ambiente virtualizado: SSH, firewall, políticas de password, ACLs/sudo, menor privilégio e análise de logs de autenticação.
 
