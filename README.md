@@ -1,71 +1,71 @@
 # Kelson Pedro
 Backend Engineer · 42 Advanced · Luanda, Angola
 
-Engenheiro backend focado em sistemas que funcionam sob pressão, escalam com lógica e falham de forma previsível.  
-Actualmente no programa **42 Advanced**, com especialização progressiva em cibersegurança — Blue Team, observabilidade e hardening de serviços.
+Backend engineer focused on systems that work under pressure, scale with logic, and fail predictably.  
+Currently in the **42 Advanced** program, with progressive specialization in cybersecurity — Blue Team, observability, and service hardening.
 
 ---
 
-## Foco técnico
+## Technical focus
 
-- **Backend & sistemas** — Node.js, NestJS, Fastify, C/C++, Linux
-- **Infraestrutura** — Docker, microserviços, Redis Streams, Docker Secrets
-- **Cibersegurança** — IAM, autenticação (JWT, OAuth, 2FA/TOTP), análise de logs, hardening Linux
-- **Redes** — TCP/IP, subnetting, routing estático, troubleshooting
-- **Bases de dados** — PostgreSQL, Redis
+- **Backend & systems** — Node.js, NestJS, Fastify, C/C++, Linux
+- **Infrastructure** — Docker, microservices, Redis Streams, Docker Secrets
+- **Cybersecurity** — IAM, authentication (JWT, OAuth, 2FA/TOTP), log analysis, Linux hardening
+- **Networks** — TCP/IP, subnetting, static routing, troubleshooting
+- **Databases** — PostgreSQL, Redis
 
 ---
 
-## Projectos em destaque
+## Featured projects
 
-### VAKS — Plataforma de Crowdfunding com Token Blockchain
-`Grupo · Backend Tech Lead · 2026`
+### VAKS — Blockchain Token Crowdfunding Platform
+`Group · Backend Tech Lead · 2026`
 
-7 microserviços independentes com database-per-service, autenticação completa (JWT + bcrypt, OAuth, 2FA TOTP, blacklist Redis), comunicação assíncrona via Redis Streams e infraestrutura Docker com redes segmentadas por domínio.
+7 independent microservices with database-per-service, full authentication (JWT + bcrypt, OAuth, 2FA TOTP, Redis blacklist), asynchronous communication via Redis Streams, and Docker infrastructure with domain-segmented networks.
 
 `NestJS` `Fastify` `Prisma` `PostgreSQL` `Redis` `Docker` `Solidity` `ethers.js`
 
 ---
 
-### Weya — Detecção automática de acidentes de viação
-`Pessoal · Open Source · Em desenvolvimento · 2026`
+### Weya — Automatic traffic accident detection
+`Personal · Open Source · In development · 2026`
 
-Sistema de detecção de eventos críticos em tempo real com fusão de sinais (acelerómetro, giroscópio, GPS), score de risco composto e activação automática de contactos e localização hospitalar.
+Real-time critical event detection system with sensor fusion (accelerometer, gyroscope, GPS), composite risk scoring, and automatic contact activation and hospital location.
 
 `React Native` `Expo` `NestJS` `TypeScript` `Sensor Fusion` `Yarn Workspaces`
 
 ---
 
-### Born2BeRoot — Hardening de servidor Linux
+### Born2BeRoot — Linux server hardening
 `42 Luanda · 2024`
 
-Administração de sistemas em ambiente virtualizado: SSH, firewall, políticas de password, ACLs/sudo, menor privilégio e análise de logs de autenticação.
+System administration in a virtualized environment: SSH, firewall, password policies, ACLs/sudo, least privilege, and authentication log analysis.
 
 ---
 
-### Webserv — Servidor HTTP em C++ (42)
+### Webserv — HTTP server in C++ (42)
 `42 Luanda · C++ · 2026`
 
-Implementação de um servidor HTTP em C++ com parsing de configuração, gestão de rotas, métodos HTTP, CGI, serving estático e tratamento de erros com foco em robustez e conformidade de comportamento.
+Implementation of an HTTP server in C++ with configuration parsing, route management, HTTP methods, CGI, static serving, and error handling focused on robustness and behavior compliance.
 
 `C++` `HTTP/1.1` `CGI` `Sockets` `Linux`
 
 ---
 
-## Em estudo contínuo
+## Continuously studying
 
-- Cibersegurança aplicada (Blue Team, observabilidade, SIEM)
-- Arquitecturas distribuídas e tolerância a falhas
-- Liderança técnica e documentação de sistemas
+- Applied cybersecurity (Blue Team, observability, SIEM)
+- Distributed architectures and fault tolerance
+- Technical leadership and system documentation
 
 ---
 
-## Contacto
+## Contact
 
 - LinkedIn: [linkedin.com/in/kelsonpedro](https://linkedin.com/in/kelsonpedro)
 - Email: kelsonpedro015@gmail.com
-- Disponível para estágio, trabalho remoto ou híbrido.
+- Available for internship, remote, or hybrid work.
 
 ---
 
-*Software não é sobre parecer inteligente. É sobre reduzir incerteza, custo e falhas.*
+*Software is not about looking smart. It is about reducing uncertainty, cost, and failures.*
