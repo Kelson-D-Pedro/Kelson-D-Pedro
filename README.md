@@ -1,8 +1,10 @@
 # Kelson Pedro
-Backend Engineer · 42 Advanced · Luanda, Angola
+Backend Engineer · C++ Developer Path · 42 Advanced · Luanda, Angola
 
 Engenheiro backend focado em sistemas que funcionam sob pressão, escalam com lógica e falham de forma previsível.  
 Actualmente no programa **42 Advanced**, com especialização progressiva em cibersegurança — Blue Team, observabilidade e hardening de serviços.
+
+Também a direccionar este perfil para oportunidades com foco em **C/C++ para sistemas, redes e performance**, alinhado com o percurso técnico da vaga.
 
 ---
 
@@ -40,6 +42,15 @@ Sistema de detecção de eventos críticos em tempo real com fusão de sinais (a
 `42 Luanda · 2024`
 
 Administração de sistemas em ambiente virtualizado: SSH, firewall, políticas de password, ACLs/sudo, menor privilégio e análise de logs de autenticação.
+
+---
+
+### Webserv — Servidor HTTP em C++ (42)
+`42 Advanced · C++ · 2026`
+
+Implementação de um servidor HTTP em C++ com parsing de configuração, gestão de rotas, métodos HTTP, CGI, serving estático e tratamento de erros com foco em robustez e conformidade de comportamento.
+
+`C++` `HTTP/1.1` `CGI` `Sockets` `Linux`
 
 ---
 
