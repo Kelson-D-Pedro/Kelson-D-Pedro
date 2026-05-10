@@ -43,6 +43,15 @@ Administração de sistemas em ambiente virtualizado: SSH, firewall, políticas 
 
 ---
 
+### Webserv — Servidor HTTP em C++ (42)
+`42 Luanda · C++ · 2026`
+
+Implementação de um servidor HTTP em C++ com parsing de configuração, gestão de rotas, métodos HTTP, CGI, serving estático e tratamento de erros com foco em robustez e conformidade de comportamento.
+
+`C++` `HTTP/1.1` `CGI` `Sockets` `Linux`
+
+---
+
 ## Em estudo contínuo
 
 - Cibersegurança aplicada (Blue Team, observabilidade, SIEM)
