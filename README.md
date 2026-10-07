@@ -33,7 +33,7 @@ My lab brings together a firewall, Windows and Linux endpoints, a central monito
 | Windows 10 and Linux Server | Authentication and system activity |
 | Kali in a separate exercise network | Controlled activity and its defensive visibility |
 
-**Current stage:** infrastructure and initial configuration established. Investigation exercises and their evidence are the next stage. The initial monitoring platform is Wazuh; a move to OpenObserve is planned because of hardware constraints.
+**Current stage:** infrastructure and initial configuration established; the monitoring architecture has been redesigned around **OpenObserve**, with endpoint collectors and **Vector** for pfSense Syslog. The redesign follows memory constraints encountered with the initial Wazuh stack. Deployment validation, detection work and investigation evidence are the next stages.
 
 [**Explore SOC-LAB →**](https://github.com/Kelson-D-Pedro/SOC-LAB)
 
