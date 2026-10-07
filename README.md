@@ -1,56 +1,50 @@
 <p align="center">
-  <img src="./github-security-header.gif" alt="Kelson Pedro — Security Operations and Blue Team; animated network" width="100%" />
+  <img src="./profile-hero.gif" width="100%" alt="Kelson Pedro — Security Operations and Blue Team. Software engineering background; Linux, Windows, log analysis, network and access controls." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kelsonpedro/"><strong>LinkedIn</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.kelsonpedro.me/"><strong>Portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Kelson-D-Pedro/SOC-LAB"><strong>SOC-LAB</strong></a>
+  <a href="https://www.linkedin.com/in/kelsonpedro/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://github.com/Kelson-D-Pedro/SOC-LAB"><strong>SOC-LAB ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://www.kelsonpedro.me/"><strong>Portfolio ↗</strong></a>
 </p>
 
-## About
+<p><img src="./technical-foundation.svg" width="100%" alt="Technical foundation: Linux, Windows, TCP/IP networks, log analysis, access control, firewall controls and observability." /></p>
 
-My experience in software development includes system architecture, authentication, authorization and observability. This foundation helps me understand how applications behave and connect that behavior with the events they produce.
+<p><img src="./profile-context.svg" width="100%" alt="Software engineering foundation. Security operations focus. Experience in system architecture, authentication, authorization and observability. Developing practical capabilities in monitoring, log analysis and investigation. A methodical approach to context, evidence and well-supported conclusions." /></p>
 
-My professional focus is **Security Operations and Blue Team**, developing practical capabilities in monitoring, log analysis and investigation. I value the context behind an alert, clear evidence and well-supported conclusions that help a team decide what to do next.
+<p>
+  <a href="https://github.com/Kelson-D-Pedro/SOC-LAB">
+    <img src="./soc-lab-feature.svg" width="100%" alt="SOC-LAB — a segmented environment for defensive security practice. VirtualBox, pfSense, Windows, Linux and Kali. Monitoring redesigned around OpenObserve, collectors and Vector. Architecture defined; deployment, telemetry validation and investigation work are the next stage." />
+  </a>
+</p>
 
-**Seeking a SOC Analyst L1 opportunity**, bringing analytical reasoning, programming ability and a methodical approach to investigating and documenting security events.
+<p><img src="./milestones.svg" width="100%" alt="ISC2 Certified in Cybersecurity (CC): exam passed. 42 Advanced. ISPTEC student. Luanda, Angola." /></p>
 
----
-
-## SOC-LAB
-
-**A segmented environment for defensive security practice.**
-
-My lab brings together a firewall, Windows and Linux endpoints, a central monitoring platform and a separate machine for controlled adversary simulation. It connects infrastructure, network controls and endpoint telemetry in one environment.
-
-| Infrastructure | Security operations |
-| :--- | :--- |
-| Five virtual machines in VirtualBox | Centralized endpoint telemetry |
-| pfSense and three logical networks | Monitoring and event analysis |
-| Windows 10 and Linux Server | Authentication and system activity |
-| Kali in a separate exercise network | Controlled activity and its defensive visibility |
-
-**Current stage:** infrastructure and initial configuration established; the monitoring architecture has been redesigned around **OpenObserve**, with endpoint collectors and **Vector** for pfSense Syslog. The redesign follows memory constraints encountered with the initial Wazuh stack. Deployment validation, detection work and investigation evidence are the next stages.
-
-[**Explore SOC-LAB →**](https://github.com/Kelson-D-Pedro/SOC-LAB)
-
-## Technical foundation
-
-**Linux & Windows** · **TCP/IP & network segmentation** · **Firewall controls** · **Authentication & access control** · **Log analysis**
-
-Passed the **ISC2 Certified in Cybersecurity (CC) exam**.
-
----
+<p align="center"><strong>Seeking a SOC Analyst L1 opportunity.</strong></p>
 
 <details>
-<summary><strong>Backend development — supporting engineering background</strong></summary>
+<summary><strong>Profile &amp; project details</strong></summary>
 
-<br />
+My software development experience spans system architecture, authentication, authorization and observability. It provides a foundation for understanding application behavior and the events systems produce.
 
-Backend remains part of my technical foundation: understanding services, data flows and authentication supports the way I approach security.
+My professional focus is **Security Operations and Blue Team**. I am developing practical capabilities in monitoring, log analysis and investigation, with an emphasis on context, clear evidence and well-supported conclusions.
+
+**Education:** ISPTEC student · 42 Advanced. Based in Luanda, Angola.
+
+SOC-LAB is a VirtualBox environment with three logical networks, pfSense as the central firewall/router, Windows and Linux endpoints, and Kali on a separate exercise network. The initial Wazuh stack informed a redesign around **OpenObserve**, endpoint collectors and **Vector** for pfSense Syslog, following host memory constraints.
+
+**Current stage:** infrastructure and initial configuration established; updated monitoring architecture defined. Deployment validation, detection work and investigation evidence are the next stages.
+
+[Explore SOC-LAB](https://github.com/Kelson-D-Pedro/SOC-LAB)
+
+</details>
+
+<details>
+<summary><strong>Backend development &amp; engineering background</strong></summary>
+
+Backend supports my understanding of services, data flows and authentication.
 
 - [**Webserv**](https://github.com/Kelson-D-Pedro/webserv) — C++ HTTP server, sockets, protocol behavior and Linux.
 - [**TaskFlow API**](https://github.com/Kelson-D-Pedro/TaskFlow-API) — REST API, authentication, data modeling and backend architecture.
@@ -61,7 +55,5 @@ Node.js · NestJS · TypeScript · C/C++ · PostgreSQL · Docker
 
 <p align="center">
   <br />
-  <strong>Luanda, Angola</strong> &nbsp; · &nbsp; 42 Advanced
-  <br />
-  <a href="https://www.linkedin.com/in/kelsonpedro/">Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kelsonpedro/"><strong>Let's connect on LinkedIn ↗</strong></a>
 </p>
