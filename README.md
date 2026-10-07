@@ -1,39 +1,67 @@
-# Kelson Pedro
+<p align="center">
+  <img src="./github-security-header.gif" alt="Kelson Pedro — Security Operations and Blue Team; animated network" width="100%" />
+</p>
 
-**Security Operations · Blue Team**
+<p align="center">
+  <a href="https://www.linkedin.com/in/kelsonpedro/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.kelsonpedro.me/"><strong>Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Kelson-D-Pedro/SOC-LAB"><strong>SOC-LAB</strong></a>
+</p>
 
-My focus is defensive security: understanding system behavior, analyzing logs and documenting conclusions supported by evidence. My background in software development provides context for how applications, authentication and infrastructure work.
+## About
 
-## Security portfolio
+My experience in software development includes system architecture, authentication, authorization and observability. This foundation helps me understand how applications behave and connect that behavior with the events they produce.
 
-### [Security Operations](https://github.com/Kelson-D-Pedro/security-operations)
+My professional focus is **Security Operations and Blue Team**, developing practical capabilities in monitoring, log analysis and investigation. I value the context behind an alert, clear evidence and well-supported conclusions that help a team decide what to do next.
 
-A practical portfolio for lab architecture, log analysis and investigation reports. **In development:** initial lab setup is complete; the first investigation reports are still to be produced.
+**Seeking a SOC Analyst L1 opportunity**, bringing analytical reasoning, programming ability and a methodical approach to investigating and documenting security events.
 
-- [Lab context and evolution](https://github.com/Kelson-D-Pedro/security-operations/blob/main/docs/lab-context.md) — initial environment and planned migration.
-- [Investigation framework](https://github.com/Kelson-D-Pedro/security-operations/blob/main/templates/investigation.md) — evidence, queries, timelines and assessment.
-- [First case plan](https://github.com/Kelson-D-Pedro/security-operations/blob/main/cases/README.md) — Linux authentication event analysis, not yet executed.
+---
+
+## SOC-LAB
+
+**A segmented environment for defensive security practice.**
+
+My lab brings together a firewall, Windows and Linux endpoints, a central monitoring platform and a separate machine for controlled adversary simulation. It connects infrastructure, network controls and endpoint telemetry in one environment.
+
+| Infrastructure | Security operations |
+| :--- | :--- |
+| Five virtual machines in VirtualBox | Centralized endpoint telemetry |
+| pfSense and three logical networks | Monitoring and event analysis |
+| Windows 10 and Linux Server | Authentication and system activity |
+| Kali in a separate exercise network | Controlled activity and its defensive visibility |
+
+**Current stage:** infrastructure and initial configuration established. Investigation exercises and their evidence are the next stage. The initial monitoring platform is Wazuh; a move to OpenObserve is planned because of hardware constraints.
+
+[**Explore SOC-LAB →**](https://github.com/Kelson-D-Pedro/SOC-LAB)
 
 ## Technical foundation
 
-- **Systems:** Linux administration, service hardening and least privilege.
-- **Networks:** TCP/IP, subnetting, routing and troubleshooting.
-- **Application security context:** authentication, authorization and access control.
-- **Developing through the lab:** security monitoring, log analysis and investigation documentation.
+**Linux & Windows** · **TCP/IP & network segmentation** · **Firewall controls** · **Authentication & access control** · **Log analysis**
 
 Passed the **ISC2 Certified in Cybersecurity (CC) exam**.
 
-## Supporting engineering work
+---
 
-| Project | Technical context |
-| --- | --- |
-| [Webserv](https://github.com/Kelson-D-Pedro/webserv) | C++ HTTP server, sockets, protocol behavior and Linux |
-| [TaskFlow API](https://github.com/Kelson-D-Pedro/TaskFlow-API) | REST API, authentication, data modeling and backend architecture |
+<details>
+<summary><strong>Backend development — supporting engineering background</strong></summary>
 
-## Connect
+<br />
 
-Open to **SOC opportunities**.
+Backend remains part of my technical foundation: understanding services, data flows and authentication supports the way I approach security.
 
-[LinkedIn](https://www.linkedin.com/in/kelsonpedro/) · [Portfolio](https://www.kelsonpedro.me/)
+- [**Webserv**](https://github.com/Kelson-D-Pedro/webserv) — C++ HTTP server, sockets, protocol behavior and Linux.
+- [**TaskFlow API**](https://github.com/Kelson-D-Pedro/TaskFlow-API) — REST API, authentication, data modeling and backend architecture.
 
-42 Advanced · Luanda, Angola
+Node.js · NestJS · TypeScript · C/C++ · PostgreSQL · Docker
+
+</details>
+
+<p align="center">
+  <br />
+  <strong>Luanda, Angola</strong> &nbsp; · &nbsp; 42 Advanced
+  <br />
+  <a href="https://www.linkedin.com/in/kelsonpedro/">Connect on LinkedIn</a>
+</p>
