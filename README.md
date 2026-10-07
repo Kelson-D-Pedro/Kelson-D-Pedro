@@ -16,11 +16,11 @@
 
 <p>
   <a href="https://github.com/Kelson-D-Pedro/SOC-LAB">
-    <img src="./soc-lab-feature.svg" width="100%" alt="SOC-LAB — a segmented environment for defensive security practice. VirtualBox, pfSense, Windows, Linux and Kali. Monitoring redesigned around OpenObserve, collectors and Vector. Architecture defined; deployment, telemetry validation and investigation work are the next stage." />
+    <img src="./soc-lab-feature.svg" width="100%" alt="SOC-LAB — a segmented environment for defensive security practice. VirtualBox, pfSense, Windows, Linux and Kali. Focus: telemetry, detection, alert triage and investigation." />
   </a>
 </p>
 
-<p><img src="./milestones.svg" width="100%" alt="ISC2 Certified in Cybersecurity (CC): exam passed. 42 Advanced. ISPTEC student. Luanda, Angola." /></p>
+<p><img src="./milestones.svg" width="100%" alt="ISC2 Certified in Cybersecurity (CC): exam passed. ISPTEC: student. 42 Advanced: training." /></p>
 
 <p align="center"><strong>Seeking a SOC Analyst L1 opportunity.</strong></p>
 
@@ -31,11 +31,9 @@ My software development experience spans system architecture, authentication, au
 
 My professional focus is **Security Operations and Blue Team**. I am developing practical capabilities in monitoring, log analysis and investigation, with an emphasis on context, clear evidence and well-supported conclusions.
 
-**Education:** ISPTEC student · 42 Advanced. Based in Luanda, Angola.
+**Education:** **ISPTEC** — student · **42 Advanced** — training. Based in Luanda, Angola.
 
-SOC-LAB is a VirtualBox environment with three logical networks, pfSense as the central firewall/router, Windows and Linux endpoints, and Kali on a separate exercise network. The initial Wazuh stack informed a redesign around **OpenObserve**, endpoint collectors and **Vector** for pfSense Syslog, following host memory constraints.
-
-**Current stage:** infrastructure and initial configuration established; updated monitoring architecture defined. Deployment validation, detection work and investigation evidence are the next stages.
+SOC-LAB is a segmented virtual environment for defensive security practice, with pfSense as the central firewall/router, Windows and Linux endpoints, and Kali on a separate exercise network. Its purpose is to connect endpoint and network telemetry with detection, alert triage and investigation.
 
 [Explore SOC-LAB](https://github.com/Kelson-D-Pedro/SOC-LAB)
 
